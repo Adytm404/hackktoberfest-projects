@@ -8,7 +8,7 @@
 		echo "$name successfully created";
 	} else {
 		rmdir($name);
-		echo "$name já existe";
+		echo "$name already exists";
 	}
 
  ?>
