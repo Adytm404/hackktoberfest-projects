@@ -1,2 +1,2 @@
-# hackktoberfest-projects
-hacktoberfest 2021
+# Hackktoberfest-projects
+Hacktoberfest 2021
